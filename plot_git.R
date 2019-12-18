@@ -5,3 +5,5 @@ plot(y~x)
 m_l <- lm(y~x)
 summary(m_l)
 
+
+#Uhahuhua
